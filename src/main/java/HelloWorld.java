@@ -4,6 +4,6 @@ public class HelloWorld {
     }
 
     public void sample(){
-        String str = "";
+        String str = "Hello";
     }
 }
